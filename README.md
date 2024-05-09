@@ -107,9 +107,6 @@ You follow above connection to interface 4G module breakout with Pico/Pico W. On
 
     ![Simcom SIM7600G (4G) Breakout](https://shop.sb-components.co.uk/cdn/shop/files/2SIMCOM.png?v=1713788098&width=150)
 
-  * [Quectel EG25G (4G) Breakout](https://shop.sb-components.co.uk/products/quectel-4g-module-breakout?_pos=2&_sid=5a6b2df96&_ss=r)
-
-    ![Quectel EG25G (4G) Breakout](https://shop.sb-components.co.uk/cdn/shop/files/2quectel.png?v=1713789371&width=150)
 
        
 ## Product License
