@@ -39,7 +39,7 @@ This Github provides a getting started guide for Quectel EG25-G Module Breakout.
 
 - Now press, hold Power Key button and release after 3-4 seconds to activate module. LEDs associated with the network will light up, first NET_STATUS then NET_MODE will be on and finally NetLight LED starts blinking. This confirms module ready for use.
   
-- To verify open device Manager and check if below listing you can see into COM port. If you cannot see device then driver is missing, download and install driver from [here](https://github.com/sbcshop/PiTalk_4G_Dongle_Software/blob/main/Quectel_LTE_EG25-G_Windows_USB_Driver_V2.1.7.rar)
+- To verify open device Manager and check if below listing you can see into COM port. If you cannot see device then driver is missing, download and install driver from [here](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Software/blob/main/Quectel_LTE_EG25-G_Windows_USB_Driver_V2.1.7.rar)
 
    <img src="https://github.com/sbcshop/Pico_Cell_4G_Software/blob/main/images/device_manager_4Gmodule.jpg" width="614" height="460" />
    
@@ -64,7 +64,7 @@ This Github provides a getting started guide for Quectel EG25-G Module Breakout.
 
   * AT
   * AT+CPIN?
-  You can refer to the [manual](https://github.com/sbcshop/Pico_Cell_4G_Software/blob/main/documents/Quectel_EC2xEG2xEG9xEM05_Series_QCFG_AT_Commands_Manual_V1.0.pdf) for more such AT Commands
+  You can refer to the [manual](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Software/blob/main/Documents/Quectel_EC2xEG2xEG9xEM05_Series_QCFG_AT_Commands_Manual_V1.0.pdf) for more such AT Commands
 
 - Creating packets is a good option for multiple commands testing. Don’t forget to add 0D and 0A required for carriage return and enter.
   
