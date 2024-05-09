@@ -91,8 +91,8 @@ You follow above connection to interface 4G module breakout with Pico/Pico W. On
   * [Schematic](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Hardware/blob/main/Design%20Data/SCH%20Quectel%204G%20bkt.pdf)
   * [Hardware Files](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Hardware)
   * [3D Step File](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Hardware/blob/main/Mechanical%20Data/STEP%20QUECTEL%204G.step)
-  * [Quectel EG25-G Module Datasheet](https://github.com/sbcshop/Pico_Cell_4G_Software/blob/main/documents/Quectel%20EG25-G%204G%20module%20datasheet.pdf)
-  * [EG25-G Module Command Manual](https://github.com/sbcshop/Pico_Cell_4G_Software/blob/main/documents/Quectel_EC2xEG2xEG9xEM05_Series_QCFG_AT_Commands_Manual_V1.0.pdf)
+  * [Quectel EG25-G Module Datasheet](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Software/blob/main/Documents/Quectel%20EG25-G%204G%20module%20datasheet.pdf)
+  * [EG25-G Module Command Manual](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Software/blob/main/Documents/Quectel_EC2xEG2xEG9xEM05_Series_QCFG_AT_Commands_Manual_V1.0.pdf)
 
 ## Related Products  
 
