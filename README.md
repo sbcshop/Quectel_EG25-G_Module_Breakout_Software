@@ -45,7 +45,7 @@ This Github provides a getting started guide for Quectel EG25-G Module Breakout.
    
 - If everything goes well it will connect as a cellular network in your system as shown below. After the succesfull 4G Module connection you will able to use your cellular network to connect with internet.
   
-  <img src="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/raw/main/images/Scr7.png" />
+  <img src="https://github.com/sbcshop/PiTalk_4G_Dongle_Software/raw/main/images/Scr7.png" width="268" height="411" />
 
 ### For AT Commands Testing
 - Open XCTU software and select the Serial console option to run as shown below.
