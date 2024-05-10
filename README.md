@@ -93,7 +93,8 @@ You follow above connection to interface 4G module breakout with Pico/Pico W. On
   * [3D Step File](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Hardware/blob/main/Mechanical%20Data/STEP%20QUECTEL%204G.step)
   * [Quectel EG25-G Module Datasheet](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Software/blob/main/Documents/Quectel%20EG25-G%204G%20module%20datasheet.pdf)
   * [EG25-G Module Command Manual](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Software/blob/main/Documents/Quectel_EC2xEG2xEG9xEM05_Series_QCFG_AT_Commands_Manual_V1.0.pdf)
-
+  * [EG25-G Driver](https://github.com/sbcshop/Quectel_EG25-G_Module_Breakout_Software/blob/main/Quectel_LTE_EG25-G_Windows_USB_Driver_V2.1.7.rar)
+    
 ## Related Products  
 
   * [Simcom SIM7600G (4G) Breakout](https://shop.sb-components.co.uk/products/simcom-4g-module-breakout?_pos=1&_sid=5a6b2df96&_ss=r)
